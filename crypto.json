@@ -1,374 +1,374 @@
 [
   {
     "name": "Bitcoin",
-    "price": "$20,159.37",
+    "price": "$20,154.65",
     "change_1hr": "-0.3%",
-    "change_24hr": "1.1%",
-    "change_7d": "-6.7%"
+    "change_24hr": "1.0%",
+    "change_7d": "-6.8%"
   },
   {
     "name": "Ethereum",
-    "price": "$1,534.47",
-    "change_1hr": "-0.6%",
-    "change_24hr": "4.7%",
+    "price": "$1,534.65",
+    "change_1hr": "-0.5%",
+    "change_24hr": "4.6%",
     "change_7d": "-5.5%"
   },
   {
     "name": "Tether",
-    "price": "$1.00",
-    "change_1hr": "-0.0%",
-    "change_24hr": "-0.3%",
-    "change_7d": "-0.2%"
-  },
-  {
-    "name": "USD Coin",
-    "price": "$0.999624",
+    "price": "$0.999892",
     "change_1hr": "-0.1%",
     "change_24hr": "-0.1%",
     "change_7d": "-0.3%"
   },
   {
-    "name": "BNB",
-    "price": "$283.85",
+    "name": "USD Coin",
+    "price": "$0.999319",
     "change_1hr": "-0.1%",
-    "change_24hr": "1.4%",
+    "change_24hr": "-0.2%",
+    "change_7d": "-0.3%"
+  },
+  {
+    "name": "BNB",
+    "price": "$283.83",
+    "change_1hr": "0.1%",
+    "change_24hr": "1.6%",
     "change_7d": "-6.3%"
   },
   {
     "name": "Binance USD",
     "price": "$1.00",
     "change_1hr": "0.0%",
-    "change_24hr": "-0.1%",
+    "change_24hr": "0.0%",
     "change_7d": "-0.2%"
   },
   {
     "name": "XRP",
-    "price": "$0.331173",
+    "price": "$0.330966",
     "change_1hr": "-0.6%",
-    "change_24hr": "-0.3%",
+    "change_24hr": "-0.2%",
     "change_7d": "-4.6%"
   },
   {
     "name": "Cardano",
-    "price": "$0.447702",
-    "change_1hr": "-0.4%",
-    "change_24hr": "2.3%",
-    "change_7d": "-3.7%"
+    "price": "$0.447117",
+    "change_1hr": "-0.5%",
+    "change_24hr": "2.4%",
+    "change_7d": "-3.8%"
   },
   {
     "name": "Solana",
-    "price": "$32.07",
-    "change_1hr": "0.1%",
+    "price": "$32.04",
+    "change_1hr": "-0.0%",
     "change_24hr": "2.7%",
-    "change_7d": "-12.2%"
+    "change_7d": "-12.3%"
   },
   {
     "name": "Dogecoin",
-    "price": "$0.063391732628",
+    "price": "$0.063358041412",
     "change_1hr": "-0.2%",
-    "change_24hr": "0.1%",
-    "change_7d": "-8.9%"
+    "change_24hr": "0.3%",
+    "change_7d": "-9.0%"
   },
   {
     "name": "Polkadot",
-    "price": "$7.22",
-    "change_1hr": "-0.3%",
-    "change_24hr": "3.3%",
-    "change_7d": "-3.2%"
+    "price": "$7.21",
+    "change_1hr": "-0.4%",
+    "change_24hr": "3.2%",
+    "change_7d": "-3.3%"
   },
   {
     "name": "Shiba Inu",
-    "price": "$0.000012407318",
-    "change_1hr": "-0.1%",
-    "change_24hr": "1.9%",
-    "change_7d": "-8.4%"
+    "price": "$0.000012376992",
+    "change_1hr": "-0.3%",
+    "change_24hr": "2.0%",
+    "change_7d": "-8.6%"
   },
   {
     "name": "Dai",
     "price": "$1.00",
-    "change_1hr": "0.1%",
-    "change_24hr": "-0.3%",
+    "change_1hr": "-0.2%",
+    "change_24hr": "0.0%",
     "change_7d": "-0.2%"
   },
   {
     "name": "Lido Staked Ether",
-    "price": "$1,494.72",
-    "change_1hr": "-0.3%",
-    "change_24hr": "5.1%",
-    "change_7d": "-5.4%"
+    "price": "$1,492.47",
+    "change_1hr": "-0.5%",
+    "change_24hr": "5.0%",
+    "change_7d": "-5.6%"
   },
   {
     "name": "Polygon",
-    "price": "$0.811206",
+    "price": "$0.810266",
     "change_1hr": "-0.5%",
-    "change_24hr": "0.6%",
-    "change_7d": "-1.5%"
+    "change_24hr": "0.8%",
+    "change_7d": "-1.6%"
   },
   {
     "name": "TRON",
-    "price": "$0.063103243980",
-    "change_1hr": "-0.3%",
+    "price": "$0.062987474752",
+    "change_1hr": "-0.5%",
     "change_24hr": "1.4%",
-    "change_7d": "-4.8%"
+    "change_7d": "-5.0%"
   },
   {
     "name": "Avalanche",
-    "price": "$19.18",
-    "change_1hr": "-0.3%",
-    "change_24hr": "2.6%",
-    "change_7d": "-16.8%"
+    "price": "$19.16",
+    "change_1hr": "-0.4%",
+    "change_24hr": "3.3%",
+    "change_7d": "-16.9%"
   },
   {
     "name": "Wrapped Bitcoin",
-    "price": "$20,148.64",
-    "change_1hr": "-0.2%",
-    "change_24hr": "1.0%",
+    "price": "$20,138.51",
+    "change_1hr": "-0.5%",
+    "change_24hr": "1.2%",
     "change_7d": "-6.8%"
   },
   {
     "name": "LEO Token",
-    "price": "$5.25",
-    "change_1hr": "-0.2%",
-    "change_24hr": "0.9%",
-    "change_7d": "2.5%"
+    "price": "$5.24",
+    "change_1hr": "-0.3%",
+    "change_24hr": "0.8%",
+    "change_7d": "2.4%"
   },
   {
     "name": "Ethereum Classic",
-    "price": "$33.13",
-    "change_1hr": "-0.4%",
-    "change_24hr": "2.9%",
-    "change_7d": "-2.3%"
+    "price": "$33.07",
+    "change_1hr": "-0.5%",
+    "change_24hr": "2.8%",
+    "change_7d": "-2.5%"
   },
   {
     "name": "OKB",
-    "price": "$16.28",
+    "price": "$16.26",
     "change_1hr": "-0.4%",
-    "change_24hr": "3.5%",
-    "change_7d": "-8.9%"
+    "change_24hr": "3.7%",
+    "change_7d": "-9.0%"
   },
   {
     "name": "Litecoin",
-    "price": "$55.33",
-    "change_1hr": "-0.2%",
-    "change_24hr": "0.8%",
+    "price": "$55.31",
+    "change_1hr": "0.0%",
+    "change_24hr": "0.9%",
     "change_7d": "-0.7%"
   },
   {
     "name": "FTX",
-    "price": "$27.11",
-    "change_1hr": "-0.4%",
+    "price": "$27.07",
+    "change_1hr": "-0.5%",
     "change_24hr": "5.3%",
-    "change_7d": "-2.5%"
+    "change_7d": "-2.6%"
   },
   {
     "name": "Cosmos Hub",
     "price": "$11.21",
     "change_1hr": "-0.7%",
-    "change_24hr": "3.7%",
-    "change_7d": "5.0%"
+    "change_24hr": "3.4%",
+    "change_7d": "4.9%"
   },
   {
     "name": "Chainlink",
     "price": "$6.65",
     "change_1hr": "-0.1%",
     "change_24hr": "3.8%",
-    "change_7d": "-6.4%"
+    "change_7d": "-6.5%"
   },
   {
     "name": "Cronos",
-    "price": "$0.122003",
-    "change_1hr": "-0.4%",
-    "change_24hr": "1.4%",
-    "change_7d": "-4.9%"
+    "price": "$0.121853",
+    "change_1hr": "-0.5%",
+    "change_24hr": "1.2%",
+    "change_7d": "-5.1%"
   },
   {
     "name": "NEAR Protocol",
-    "price": "$3.99",
-    "change_1hr": "-0.2%",
-    "change_24hr": "3.6%",
-    "change_7d": "-6.0%"
+    "price": "$3.98",
+    "change_1hr": "-0.5%",
+    "change_24hr": "3.8%",
+    "change_7d": "-6.2%"
   },
   {
     "name": "Uniswap",
     "price": "$6.27",
-    "change_1hr": "-0.3%",
-    "change_24hr": "6.9%",
-    "change_7d": "-13.4%"
+    "change_1hr": "-0.5%",
+    "change_24hr": "6.7%",
+    "change_7d": "-13.5%"
   },
   {
     "name": "Monero",
-    "price": "$152.42",
-    "change_1hr": "-0.4%",
-    "change_24hr": "2.9%",
-    "change_7d": "-1.8%"
+    "price": "$152.08",
+    "change_1hr": "-0.5%",
+    "change_24hr": "2.7%",
+    "change_7d": "-2.0%"
   },
   {
     "name": "Stellar",
-    "price": "$0.105009",
+    "price": "$0.104926",
     "change_1hr": "-0.2%",
-    "change_24hr": "-0.3%",
-    "change_7d": "-5.9%"
+    "change_24hr": "0.2%",
+    "change_7d": "-6.0%"
   },
   {
     "name": "Bitcoin Cash",
-    "price": "$118.29",
-    "change_1hr": "0.1%",
-    "change_24hr": "1.2%",
-    "change_7d": "-1.2%"
+    "price": "$118.48",
+    "change_1hr": "0.4%",
+    "change_24hr": "1.5%",
+    "change_7d": "-1.1%"
   },
   {
     "name": "Algorand",
-    "price": "$0.296258",
+    "price": "$0.296019",
     "change_1hr": "-0.3%",
-    "change_24hr": "2.5%",
-    "change_7d": "-4.0%"
+    "change_24hr": "2.7%",
+    "change_7d": "-4.1%"
   },
   {
     "name": "Flow",
     "price": "$1.93",
-    "change_1hr": "-0.5%",
+    "change_1hr": "-0.6%",
     "change_24hr": "10.0%",
-    "change_7d": "-11.7%"
+    "change_7d": "-11.9%"
   },
   {
     "name": "Chain",
-    "price": "$0.084182183085",
+    "price": "$0.084123267681",
     "change_1hr": "0.0%",
-    "change_24hr": "-3.7%",
+    "change_24hr": "-3.5%",
     "change_7d": "-8.1%"
   },
   {
     "name": "VeChain",
-    "price": "$0.024674757503",
+    "price": "$0.024643048303",
     "change_1hr": "-0.2%",
     "change_24hr": "2.0%",
-    "change_7d": "-7.6%"
+    "change_7d": "-7.7%"
   },
   {
     "name": "Internet Computer",
-    "price": "$6.64",
-    "change_1hr": "-0.5%",
-    "change_24hr": "3.8%",
-    "change_7d": "2.6%"
+    "price": "$6.63",
+    "change_1hr": "-0.7%",
+    "change_24hr": "3.6%",
+    "change_7d": "2.3%"
   },
   {
     "name": "Filecoin",
-    "price": "$5.96",
-    "change_1hr": "-0.3%",
-    "change_24hr": "4.5%",
-    "change_7d": "-7.3%"
+    "price": "$5.95",
+    "change_1hr": "-0.9%",
+    "change_24hr": "4.4%",
+    "change_7d": "-7.5%"
   },
   {
     "name": "ApeCoin",
-    "price": "$4.92",
-    "change_1hr": "-0.3%",
-    "change_24hr": "3.3%",
-    "change_7d": "-5.6%"
+    "price": "$4.91",
+    "change_1hr": "-0.5%",
+    "change_24hr": "3.1%",
+    "change_7d": "-5.8%"
   },
   {
     "name": "Hedera",
-    "price": "$0.065763830581",
-    "change_1hr": "-0.4%",
-    "change_24hr": "2.2%",
-    "change_7d": "-5.6%"
+    "price": "$0.065688022015",
+    "change_1hr": "-0.5%",
+    "change_24hr": "2.1%",
+    "change_7d": "-5.7%"
   },
   {
     "name": "Frax",
-    "price": "$0.999735",
-    "change_1hr": "0.1%",
-    "change_24hr": "-0.2%",
-    "change_7d": "-0.1%"
+    "price": "$0.999071",
+    "change_1hr": "0.0%",
+    "change_24hr": "-0.1%",
+    "change_7d": "-0.2%"
   },
   {
     "name": "EOS",
     "price": "$1.48",
-    "change_1hr": "-0.3%",
+    "change_1hr": "-0.5%",
     "change_24hr": "-0.2%",
     "change_7d": "-6.3%"
   },
   {
     "name": "The Sandbox",
-    "price": "$0.981512",
+    "price": "$0.980925",
     "change_1hr": "-0.2%",
-    "change_24hr": "2.4%",
-    "change_7d": "-8.9%"
+    "change_24hr": "2.3%",
+    "change_7d": "-9.0%"
   },
   {
     "name": "Decentraland",
-    "price": "$0.789248",
-    "change_1hr": "-0.3%",
-    "change_24hr": "2.9%",
-    "change_7d": "-7.9%"
+    "price": "$0.788237",
+    "change_1hr": "-0.4%",
+    "change_24hr": "3.0%",
+    "change_7d": "-8.1%"
   },
   {
     "name": "Tezos",
     "price": "$1.52",
     "change_1hr": "-0.2%",
-    "change_24hr": "3.9%",
+    "change_24hr": "4.1%",
     "change_7d": "-7.3%"
   },
   {
     "name": "Quant",
-    "price": "$99.46",
-    "change_1hr": "-0.2%",
-    "change_24hr": "4.0%",
-    "change_7d": "-10.4%"
+    "price": "$99.23",
+    "change_1hr": "-0.6%",
+    "change_24hr": "3.7%",
+    "change_7d": "-10.7%"
   },
   {
     "name": "Axie Infinity",
-    "price": "$13.68",
-    "change_1hr": "-0.1%",
-    "change_24hr": "0.2%",
-    "change_7d": "-6.1%"
+    "price": "$13.65",
+    "change_1hr": "-0.3%",
+    "change_24hr": "-0.1%",
+    "change_7d": "-6.3%"
   },
   {
     "name": "Elrond",
-    "price": "$52.56",
+    "price": "$52.53",
     "change_1hr": "-0.1%",
-    "change_24hr": "2.8%",
-    "change_7d": "-4.4%"
+    "change_24hr": "2.9%",
+    "change_7d": "-4.5%"
   },
   {
     "name": "Aave",
-    "price": "$84.52",
+    "price": "$84.44",
     "change_1hr": "-0.4%",
-    "change_24hr": "4.7%",
-    "change_7d": "-2.1%"
+    "change_24hr": "4.4%",
+    "change_7d": "-2.2%"
   },
   {
     "name": "Theta Network",
     "price": "$1.18",
-    "change_1hr": "-0.3%",
-    "change_24hr": "4.9%",
-    "change_7d": "-4.7%"
+    "change_1hr": "-0.4%",
+    "change_24hr": "4.8%",
+    "change_7d": "-4.9%"
   },
   {
     "name": "Chiliz",
-    "price": "$0.213132",
-    "change_1hr": "-1.0%",
-    "change_24hr": "-5.3%",
-    "change_7d": "13.2%"
+    "price": "$0.212488",
+    "change_1hr": "-1.2%",
+    "change_24hr": "-4.6%",
+    "change_7d": "12.9%"
   },
   {
     "name": "TrueUSD",
     "price": "$1.00",
-    "change_1hr": "0.1%",
-    "change_24hr": "-0.3%",
-    "change_7d": "-0.2%"
+    "change_1hr": "-0.1%",
+    "change_24hr": "-0.2%",
+    "change_7d": "-0.3%"
   },
   {
     "name": "Lido DAO",
     "price": "$1.82",
-    "change_1hr": "-0.8%",
-    "change_24hr": "11.6%",
-    "change_7d": "-16.7%"
+    "change_1hr": "-0.4%",
+    "change_24hr": "12.5%",
+    "change_7d": "-16.5%"
   },
   {
     "name": "Bitcoin SV",
-    "price": "$53.44",
+    "price": "$53.47",
     "change_1hr": "0.1%",
-    "change_24hr": "0.5%",
-    "change_7d": "-2.9%"
+    "change_24hr": "0.6%",
+    "change_7d": "-2.8%"
   },
   {
     "name": "cUSDC",
@@ -379,52 +379,52 @@
   },
   {
     "name": "eCash",
-    "price": "$0.000051470533",
-    "change_1hr": "2.6%",
-    "change_24hr": "5.9%",
-    "change_7d": "28.3%"
+    "price": "$0.000051386368",
+    "change_1hr": "2.4%",
+    "change_24hr": "5.3%",
+    "change_7d": "28.1%"
   },
   {
     "name": "Pax Dollar",
-    "price": "$0.999592",
-    "change_1hr": "-0.2%",
+    "price": "$0.998718",
+    "change_1hr": "-0.3%",
     "change_24hr": "-0.1%",
-    "change_7d": "0.1%"
+    "change_7d": "-0.0%"
   },
   {
     "name": "KuCoin",
     "price": "$9.05",
-    "change_1hr": "-0.1%",
-    "change_24hr": "1.0%",
+    "change_1hr": "-0.3%",
+    "change_24hr": "1.1%",
     "change_7d": "-6.1%"
   },
   {
     "name": "BitTorrent",
-    "price": "$0.000000880646",
-    "change_1hr": "0.0%",
-    "change_24hr": "1.3%",
-    "change_7d": "-1.2%"
+    "price": "$0.000000875724",
+    "change_1hr": "-0.2%",
+    "change_24hr": "0.8%",
+    "change_7d": "-1.8%"
   },
   {
     "name": "Synthetix Network",
-    "price": "$3.47",
-    "change_1hr": "-1.2%",
-    "change_24hr": "12.8%",
-    "change_7d": "12.0%"
+    "price": "$3.44",
+    "change_1hr": "-1.6%",
+    "change_24hr": "11.9%",
+    "change_7d": "11.4%"
   },
   {
     "name": "Zcash",
-    "price": "$63.46",
-    "change_1hr": "-0.1%",
-    "change_24hr": "2.4%",
-    "change_7d": "-2.8%"
+    "price": "$63.06",
+    "change_1hr": "-0.7%",
+    "change_24hr": "1.8%",
+    "change_7d": "-3.4%"
   },
   {
     "name": "IOTA",
-    "price": "$0.288846",
-    "change_1hr": "-0.3%",
-    "change_24hr": "3.6%",
-    "change_7d": "-2.7%"
+    "price": "$0.288425",
+    "change_1hr": "-0.4%",
+    "change_24hr": "3.8%",
+    "change_7d": "-2.9%"
   },
   {
     "name": "cETH",
@@ -435,45 +435,45 @@
   },
   {
     "name": "Huobi BTC",
-    "price": "$20,102.27",
-    "change_1hr": "-0.5%",
-    "change_24hr": "1.6%",
+    "price": "$20,098.01",
+    "change_1hr": "-0.7%",
+    "change_24hr": "1.7%",
     "change_7d": "-7.1%"
   },
   {
     "name": "Helium",
-    "price": "$6.14",
-    "change_1hr": "-0.3%",
-    "change_24hr": "3.5%",
-    "change_7d": "-11.0%"
+    "price": "$6.13",
+    "change_1hr": "-0.6%",
+    "change_24hr": "3.6%",
+    "change_7d": "-11.2%"
   },
   {
     "name": "The Graph",
-    "price": "$0.105149",
-    "change_1hr": "-0.2%",
+    "price": "$0.104977",
+    "change_1hr": "-0.6%",
     "change_24hr": "3.3%",
-    "change_7d": "-3.3%"
+    "change_7d": "-3.5%"
   },
   {
     "name": "Huobi",
     "price": "$4.84",
-    "change_1hr": "-0.3%",
-    "change_24hr": "0.1%",
-    "change_7d": "9.1%"
+    "change_1hr": "-0.6%",
+    "change_24hr": "-0.1%",
+    "change_7d": "9.0%"
   },
   {
     "name": "USDD",
-    "price": "$1.00",
-    "change_1hr": "0.1%",
-    "change_24hr": "-0.5%",
-    "change_7d": "-0.3%"
+    "price": "$0.996549",
+    "change_1hr": "-0.4%",
+    "change_24hr": "-0.8%",
+    "change_7d": "-0.6%"
   },
   {
     "name": "Maker",
-    "price": "$803.05",
-    "change_1hr": "-0.1%",
+    "price": "$802.67",
+    "change_1hr": "-0.3%",
     "change_24hr": "7.5%",
-    "change_7d": "-4.6%"
+    "change_7d": "-4.7%"
   },
   {
     "name": "cDAI",
@@ -484,219 +484,219 @@
   },
   {
     "name": "Klaytn",
-    "price": "$0.236438",
-    "change_1hr": "-0.4%",
+    "price": "$0.236214",
+    "change_1hr": "-0.5%",
     "change_24hr": "-1.3%",
-    "change_7d": "-5.4%"
+    "change_7d": "-5.5%"
   },
   {
     "name": "Fantom",
-    "price": "$0.280241",
-    "change_1hr": "-0.3%",
+    "price": "$0.279627",
+    "change_1hr": "-0.4%",
     "change_24hr": "2.8%",
-    "change_7d": "-8.8%"
+    "change_7d": "-9.0%"
   },
   {
     "name": "Neutrino USD",
-    "price": "$0.977749",
-    "change_1hr": "0.0%",
+    "price": "$0.976748",
+    "change_1hr": "-0.2%",
     "change_24hr": "-0.7%",
-    "change_7d": "-0.0%"
+    "change_7d": "-0.1%"
   },
   {
     "name": "Evmos",
     "price": "$2.35",
-    "change_1hr": "0.2%",
-    "change_24hr": "1.0%",
-    "change_7d": "25.1%"
+    "change_1hr": "0.5%",
+    "change_24hr": "1.1%",
+    "change_7d": "25.0%"
   },
   {
     "name": "NEO",
     "price": "$9.31",
-    "change_1hr": "-0.2%",
-    "change_24hr": "2.4%",
-    "change_7d": "-6.1%"
+    "change_1hr": "-0.4%",
+    "change_24hr": "2.6%",
+    "change_7d": "-6.2%"
   },
   {
     "name": "Gate",
     "price": "$4.39",
-    "change_1hr": "0.0%",
-    "change_24hr": "0.4%",
-    "change_7d": "-4.2%"
+    "change_1hr": "-0.2%",
+    "change_24hr": "0.6%",
+    "change_7d": "-4.3%"
   },
   {
     "name": "Radix",
-    "price": "$0.059490550936",
-    "change_1hr": "0.1%",
-    "change_24hr": "6.0%",
-    "change_7d": "-3.3%"
-  },
-  {
-    "name": "BitDAO",
-    "price": "$0.561398",
-    "change_1hr": "-0.0%",
-    "change_24hr": "2.3%",
-    "change_7d": "17.0%"
+    "price": "$0.059871553757",
+    "change_1hr": "0.7%",
+    "change_24hr": "6.9%",
+    "change_7d": "-2.7%"
   },
   {
     "name": "PAX Gold",
-    "price": "$1,727.79",
-    "change_1hr": "-0.0%",
+    "price": "$1,727.13",
+    "change_1hr": "-0.2%",
     "change_24hr": "-0.1%",
     "change_7d": "-0.7%"
   },
   {
+    "name": "BitDAO",
+    "price": "$0.560185",
+    "change_1hr": "-0.4%",
+    "change_24hr": "2.4%",
+    "change_7d": "16.7%"
+  },
+  {
     "name": "THORChain",
     "price": "$1.94",
-    "change_1hr": "-0.4%",
-    "change_24hr": "3.2%",
-    "change_7d": "-10.9%"
+    "change_1hr": "-0.5%",
+    "change_24hr": "3.3%",
+    "change_7d": "-11.1%"
   },
   {
     "name": "PancakeSwap",
-    "price": "$4.00",
-    "change_1hr": "0.0%",
-    "change_24hr": "3.5%",
-    "change_7d": "1.2%"
+    "price": "$3.99",
+    "change_1hr": "-0.1%",
+    "change_24hr": "3.6%",
+    "change_7d": "1.1%"
   },
   {
     "name": "Celsius Network",
     "price": "$1.32",
-    "change_1hr": "0.2%",
-    "change_24hr": "3.8%",
-    "change_7d": "-41.9%"
+    "change_1hr": "0.0%",
+    "change_24hr": "4.7%",
+    "change_7d": "-41.8%"
   },
   {
     "name": "NEXO",
-    "price": "$0.977449",
-    "change_1hr": "1.0%",
-    "change_24hr": "4.8%",
-    "change_7d": "5.8%"
-  },
-  {
-    "name": "Zilliqa",
-    "price": "$0.036751488602",
+    "price": "$0.975554",
     "change_1hr": "-0.2%",
-    "change_24hr": "1.2%",
-    "change_7d": "-3.0%"
+    "change_24hr": "4.7%",
+    "change_7d": "5.5%"
   },
   {
     "name": "Arweave",
-    "price": "$10.83",
-    "change_1hr": "-0.4%",
-    "change_24hr": "1.6%",
-    "change_7d": "-14.6%"
+    "price": "$10.82",
+    "change_1hr": "-0.7%",
+    "change_24hr": "1.8%",
+    "change_7d": "-14.7%"
+  },
+  {
+    "name": "Zilliqa",
+    "price": "$0.036737600247",
+    "change_1hr": "-0.2%",
+    "change_24hr": "1.2%",
+    "change_7d": "-3.1%"
   },
   {
     "name": "DeFiChain",
-    "price": "$0.898056",
-    "change_1hr": "-0.2%",
+    "price": "$0.896542",
+    "change_1hr": "-0.4%",
     "change_24hr": "1.3%",
-    "change_7d": "11.2%"
+    "change_7d": "11.0%"
   },
   {
     "name": "Basic Attention",
-    "price": "$0.345190",
-    "change_1hr": "-0.2%",
-    "change_24hr": "2.9%",
-    "change_7d": "-6.7%"
+    "price": "$0.344625",
+    "change_1hr": "-0.4%",
+    "change_24hr": "2.7%",
+    "change_7d": "-6.9%"
   },
   {
     "name": "Dash",
-    "price": "$46.99",
+    "price": "$46.95",
     "change_1hr": "-0.1%",
-    "change_24hr": "3.7%",
-    "change_7d": "0.0%"
+    "change_24hr": "3.8%",
+    "change_7d": "-0.1%"
   },
   {
     "name": "Osmosis",
     "price": "$1.14",
-    "change_1hr": "-0.5%",
-    "change_24hr": "1.5%",
+    "change_1hr": "-0.6%",
+    "change_24hr": "1.4%",
     "change_7d": "1.2%"
   },
   {
     "name": "Stacks",
-    "price": "$0.369225",
-    "change_1hr": "-0.6%",
-    "change_24hr": "0.5%",
-    "change_7d": "-7.7%"
+    "price": "$0.369921",
+    "change_1hr": "-0.8%",
+    "change_24hr": "0.9%",
+    "change_7d": "-7.5%"
   },
   {
     "name": "Amp",
-    "price": "$0.006456866969",
-    "change_1hr": "-0.1%",
-    "change_24hr": "-0.8%",
+    "price": "$0.006454831499",
+    "change_1hr": "0.0%",
+    "change_24hr": "-0.7%",
     "change_7d": "-10.5%"
   },
   {
     "name": "Enjin Coin",
-    "price": "$0.522495",
-    "change_1hr": "-0.2%",
+    "price": "$0.521795",
+    "change_1hr": "-0.6%",
     "change_24hr": "3.7%",
-    "change_7d": "-8.8%"
+    "change_7d": "-9.0%"
   },
   {
     "name": "cUSDT",
-    "price": "$0.021972589898",
-    "change_1hr": "0.0%",
+    "price": "$0.021950641104",
+    "change_1hr": "-0.1%",
     "change_24hr": "-0.2%",
     "change_7d": ""
   },
   {
     "name": "Tenset",
-    "price": "$2.41",
-    "change_1hr": "0.1%",
-    "change_24hr": "-1.3%",
-    "change_7d": "-17.7%"
+    "price": "$2.43",
+    "change_1hr": "1.1%",
+    "change_24hr": "-0.1%",
+    "change_7d": "-17.0%"
   },
   {
     "name": "Waves",
     "price": "$4.58",
-    "change_1hr": "-0.1%",
-    "change_24hr": "1.8%",
-    "change_7d": "-7.7%"
+    "change_1hr": "-0.3%",
+    "change_24hr": "1.9%",
+    "change_7d": "-7.8%"
   },
   {
     "name": "Loopring",
-    "price": "$0.362916",
-    "change_1hr": "-0.6%",
-    "change_24hr": "3.9%",
+    "price": "$0.362751",
+    "change_1hr": "-0.7%",
+    "change_24hr": "4.0%",
     "change_7d": "-5.5%"
   },
   {
     "name": "Kusama",
-    "price": "$49.52",
-    "change_1hr": "0.1%",
-    "change_24hr": "6.9%",
-    "change_7d": "-2.6%"
+    "price": "$49.43",
+    "change_1hr": "-0.1%",
+    "change_24hr": "6.7%",
+    "change_7d": "-2.8%"
   },
   {
     "name": "Tokenize Xchange",
     "price": "$5.50",
-    "change_1hr": "-0.3%",
-    "change_24hr": "1.9%",
-    "change_7d": "14.3%"
+    "change_1hr": "-0.0%",
+    "change_24hr": "2.4%",
+    "change_7d": "14.4%"
   },
   {
     "name": "Kava",
     "price": "$1.71",
-    "change_1hr": "-0.3%",
+    "change_1hr": "-0.5%",
     "change_24hr": "2.7%",
-    "change_7d": "-7.9%"
+    "change_7d": "-8.0%"
   },
   {
     "name": "Tether Gold",
-    "price": "$1,713.06",
-    "change_1hr": "0.0%",
+    "price": "$1,711.32",
+    "change_1hr": "-0.1%",
     "change_24hr": "-0.1%",
-    "change_7d": "0.0%"
+    "change_7d": "-0.1%"
   },
   {
     "name": "Curve DAO",
     "price": "$1.07",
-    "change_1hr": "-0.4%",
-    "change_24hr": "5.2%",
-    "change_7d": "3.6%"
+    "change_1hr": "-0.5%",
+    "change_24hr": "5.7%",
+    "change_7d": "3.4%"
   }
 ]
